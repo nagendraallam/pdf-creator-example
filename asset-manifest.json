@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdf-creator-example/static/css/main.de7072ef.css",
+    "main.js": "/pdf-creator-example/static/js/main.3fb28838.js",
+    "index.html": "/pdf-creator-example/index.html",
+    "main.de7072ef.css.map": "/pdf-creator-example/static/css/main.de7072ef.css.map",
+    "main.3fb28838.js.map": "/pdf-creator-example/static/js/main.3fb28838.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de7072ef.css",
+    "static/js/main.3fb28838.js"
+  ]
+}
